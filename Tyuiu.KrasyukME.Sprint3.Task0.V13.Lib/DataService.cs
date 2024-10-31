@@ -15,6 +15,7 @@ namespace Tyuiu.KrasyukME.Sprint3.Task0.V13.Lib
             }
 
             return Math.Round(S, 3);
+
         }
     }
 }
