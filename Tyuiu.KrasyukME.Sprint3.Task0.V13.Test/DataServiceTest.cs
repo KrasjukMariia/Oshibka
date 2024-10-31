@@ -11,11 +11,11 @@
 
             double value = 0.5;
             int StartValue = 1;
-            int StopValue = 20;
+            int StopValue = 30;
 
             double res = ds.GetSumSeries(value, StartValue, StopValue);
 
-            double wait = 0.298;
+            double wait = -0.635;
 
             Assert.AreEqual(wait, res);
         }

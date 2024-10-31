@@ -20,7 +20,7 @@ namespace Tyuiu.KrasyukME.Sprint3.Task0.V13
 
             double value = 0.5;
             int startValue = 1;
-            int stopValue = 20;
+            int stopValue = 30;
             Console.WriteLine("Пременная a = " + value);
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага = " + stopValue);
